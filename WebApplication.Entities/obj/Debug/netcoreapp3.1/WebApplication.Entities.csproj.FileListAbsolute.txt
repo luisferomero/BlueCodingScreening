@@ -1,0 +1,9 @@
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Entities\bin\Debug\netcoreapp3.1\WebApplication.Entities.deps.json
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Entities\bin\Debug\netcoreapp3.1\WebApplication.Entities.dll
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Entities\bin\Debug\netcoreapp3.1\WebApplication.Entities.pdb
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Entities\obj\Debug\netcoreapp3.1\WebApplication.Entities.csprojAssemblyReference.cache
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Entities\obj\Debug\netcoreapp3.1\WebApplication.Entities.AssemblyInfoInputs.cache
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Entities\obj\Debug\netcoreapp3.1\WebApplication.Entities.AssemblyInfo.cs
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Entities\obj\Debug\netcoreapp3.1\WebApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Entities\obj\Debug\netcoreapp3.1\WebApplication.Entities.dll
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Entities\obj\Debug\netcoreapp3.1\WebApplication.Entities.pdb

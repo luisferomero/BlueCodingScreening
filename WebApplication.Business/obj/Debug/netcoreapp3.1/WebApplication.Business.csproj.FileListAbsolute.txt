@@ -1,0 +1,16 @@
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\bin\Debug\netcoreapp3.1\WebApplication.Business.deps.json
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\bin\Debug\netcoreapp3.1\WebApplication.Business.dll
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\bin\Debug\netcoreapp3.1\WebApplication.Business.pdb
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\bin\Debug\netcoreapp3.1\WebAplication.DataAccess.dll
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\bin\Debug\netcoreapp3.1\WebApplication.Entities.dll
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\bin\Debug\netcoreapp3.1\WebApplication.UnitOfWork.dll
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\bin\Debug\netcoreapp3.1\WebAplication.DataAccess.pdb
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\bin\Debug\netcoreapp3.1\WebApplication.Entities.pdb
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\bin\Debug\netcoreapp3.1\WebApplication.UnitOfWork.pdb
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\obj\Debug\netcoreapp3.1\WebApplication.Business.csprojAssemblyReference.cache
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\obj\Debug\netcoreapp3.1\WebApplication.Business.AssemblyInfoInputs.cache
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\obj\Debug\netcoreapp3.1\WebApplication.Business.AssemblyInfo.cs
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\obj\Debug\netcoreapp3.1\WebApplication.Business.csproj.CoreCompileInputs.cache
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\obj\Debug\netcoreapp3.1\WebApplication.Business.csproj.CopyComplete
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\obj\Debug\netcoreapp3.1\WebApplication.Business.dll
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.Business\obj\Debug\netcoreapp3.1\WebApplication.Business.pdb

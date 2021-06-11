@@ -1,0 +1,9 @@
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.UnitOfWork\bin\Debug\netcoreapp3.1\WebApplication.UnitOfWork.deps.json
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.UnitOfWork\bin\Debug\netcoreapp3.1\WebApplication.UnitOfWork.dll
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.UnitOfWork\bin\Debug\netcoreapp3.1\WebApplication.UnitOfWork.pdb
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.UnitOfWork\obj\Debug\netcoreapp3.1\WebApplication.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.UnitOfWork\obj\Debug\netcoreapp3.1\WebApplication.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.UnitOfWork\obj\Debug\netcoreapp3.1\WebApplication.UnitOfWork.AssemblyInfo.cs
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.UnitOfWork\obj\Debug\netcoreapp3.1\WebApplication.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.UnitOfWork\obj\Debug\netcoreapp3.1\WebApplication.UnitOfWork.dll
+C:\Users\luisf\source\repos\WebApplication1\WebApplication.UnitOfWork\obj\Debug\netcoreapp3.1\WebApplication.UnitOfWork.pdb

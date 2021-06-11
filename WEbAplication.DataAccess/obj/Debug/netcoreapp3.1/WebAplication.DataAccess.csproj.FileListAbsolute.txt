@@ -1,0 +1,9 @@
+C:\Users\luisf\source\repos\WebApplication1\WEbAplication.DataAccess\bin\Debug\netcoreapp3.1\WebAplication.DataAccess.deps.json
+C:\Users\luisf\source\repos\WebApplication1\WEbAplication.DataAccess\bin\Debug\netcoreapp3.1\WebAplication.DataAccess.dll
+C:\Users\luisf\source\repos\WebApplication1\WEbAplication.DataAccess\bin\Debug\netcoreapp3.1\WebAplication.DataAccess.pdb
+C:\Users\luisf\source\repos\WebApplication1\WEbAplication.DataAccess\obj\Debug\netcoreapp3.1\WebAplication.DataAccess.csprojAssemblyReference.cache
+C:\Users\luisf\source\repos\WebApplication1\WEbAplication.DataAccess\obj\Debug\netcoreapp3.1\WebAplication.DataAccess.AssemblyInfoInputs.cache
+C:\Users\luisf\source\repos\WebApplication1\WEbAplication.DataAccess\obj\Debug\netcoreapp3.1\WebAplication.DataAccess.AssemblyInfo.cs
+C:\Users\luisf\source\repos\WebApplication1\WEbAplication.DataAccess\obj\Debug\netcoreapp3.1\WebAplication.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\luisf\source\repos\WebApplication1\WEbAplication.DataAccess\obj\Debug\netcoreapp3.1\WebAplication.DataAccess.dll
+C:\Users\luisf\source\repos\WebApplication1\WEbAplication.DataAccess\obj\Debug\netcoreapp3.1\WebAplication.DataAccess.pdb

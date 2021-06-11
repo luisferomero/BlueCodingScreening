@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebApplication.Business/1.0.0": {
+        "dependencies": {
+          "WebAplication.DataAccess": "1.0.0",
+          "WebApplication.Entities": "1.0.0",
+          "WebApplication.UnitOfWork": "1.0.0"
+        },
+        "runtime": {
+          "WebApplication.Business.dll": {}
+        }
+      },
+      "WebAplication.DataAccess/1.0.0": {
+        "runtime": {
+          "WebAplication.DataAccess.dll": {}
+        }
+      },
+      "WebApplication.Entities/1.0.0": {
+        "runtime": {
+          "WebApplication.Entities.dll": {}
+        }
+      },
+      "WebApplication.UnitOfWork/1.0.0": {
+        "runtime": {
+          "WebApplication.UnitOfWork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplication.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebAplication.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApplication.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApplication.UnitOfWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
